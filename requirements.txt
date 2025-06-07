@@ -1,7 +1,10 @@
 streamlit
-rdkit-pypi
-joblib
-py3Dmol
-pillow
-numpy
 scikit-learn
+joblib
+numpy
+pillow
+py3Dmol
+
+# 使用 conda-forge 镜像安装 rdkit
+-f https://conda.anaconda.org/rdkit/linux-64/
+rdkit==2023.03.2
