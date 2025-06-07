@@ -2,7 +2,7 @@ streamlit
 joblib
 xgboost
 numpy
-sklearn.ensemble
+scikit-learn
 sklearn.preprocessing
 py3Dmol
 Draw
