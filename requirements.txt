@@ -4,7 +4,4 @@ joblib
 numpy
 pillow
 py3Dmol
-
-# 使用 conda-forge 镜像安装 rdkit
--f https://conda.anaconda.org/rdkit/linux-64/
-rdkit==2023.03.2
+rdkit-pypi==2022.9.5
