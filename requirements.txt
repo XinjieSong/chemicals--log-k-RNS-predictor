@@ -1,9 +1,7 @@
 streamlit
+rdkit-pypi
 joblib
-xgboost
+py3Dmol
+pillow
 numpy
 scikit-learn
-sklearn.preprocessing
-py3Dmol
-Draw
-pillow
